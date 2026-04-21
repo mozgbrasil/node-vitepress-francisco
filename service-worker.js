@@ -1,22 +1,28 @@
-const VERSION = 'mozg-site-v9';
+const VERSION = "mozg-site-francisco-v10";
+const HOME_PATH = "/node-vitepress-francisco/";
 const APP_SHELL = [
-  '/',
-  '/openapi/',
-  '/docs/',
-  '/swagger-ui.html',
-  '/manifest.json',
-  '/logo-mini.svg',
-  '/logo-mini.png',
-  '/og.jpg',
-  '/data/site-catalog.json',
-  '/data/site-audit.json',
-  '/data/site-discovery.json',
-  '/data/site-portfolio.json',
-  '/data/site-projects.json',
-  '/data/site-capabilities.json',
-  '/data/site-stacks.json',
-  '/llms.txt',
-  '/robots.txt',
+  "/node-vitepress-francisco/",
+  "/node-vitepress-francisco/manifest.json",
+  "/node-vitepress-francisco/logo-mini.svg",
+  "/node-vitepress-francisco/logo-mini.png",
+  "/node-vitepress-francisco/og.jpg",
+  "/node-vitepress-francisco/data/site-catalog.json",
+  "/node-vitepress-francisco/data/site-audit.json",
+  "/node-vitepress-francisco/data/site-discovery.json",
+  "/node-vitepress-francisco/data/site-portfolio.json",
+  "/node-vitepress-francisco/data/site-projects.json",
+  "/node-vitepress-francisco/data/site-capabilities.json",
+  "/node-vitepress-francisco/data/site-stacks.json",
+  "/node-vitepress-francisco/data/site-operations.json",
+  "/node-vitepress-francisco/data/site-journeys.json",
+  "/node-vitepress-francisco/data/site-trust.json",
+  "/node-vitepress-francisco/llms.txt",
+  "/node-vitepress-francisco/robots.txt",
+  "/node-vitepress-francisco/contato",
+  "/node-vitepress-francisco/presenca",
+  "/node-vitepress-francisco/en/",
+  "/node-vitepress-francisco/en/contact",
+  "/node-vitepress-francisco/en/presence"
 ];
 
 self.addEventListener('install', (event) => {
@@ -59,7 +65,7 @@ self.addEventListener('fetch', (event) => {
             const responseClone = response.clone();
             event.waitUntil(
               caches.open(VERSION).then((cache) => {
-                cache.put('/', responseClone);
+                cache.put(HOME_PATH, responseClone);
               }),
             );
           }
@@ -67,7 +73,7 @@ self.addEventListener('fetch', (event) => {
         })
         .catch(async () => {
           const cache = await caches.open(VERSION);
-          return cache.match('/') || Response.error();
+          return cache.match(HOME_PATH) || Response.error();
         }),
     );
     return;

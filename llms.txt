@@ -5,7 +5,7 @@
 - Role: Perfil profissional
 - Location: Brasil
 - Site: https://github.com/mozgbrasil/node-vitepress-francisco
-- Generated at: 2026-04-21T02:08:26.434Z
+- Generated at: 2026-04-21T03:12:03.848Z
 
 ## Summary
 Perfil profissional de Francisco Amorim com referências públicas organizadas no LinkedIn e em um repositório auditável.
