@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-04-21T00:39:46.472Z",
+  "filters_applied": {},
+  "total_signals": 2,
+  "total_available_signals": 2,
+  "linked_signals": 2,
+  "signals": [
+    {
+      "title": "Perfil profissional publico",
+      "description": "Referencia publica principal para a identidade profissional.",
+      "href": "https://www.linkedin.com/in/francisco-amorim-35228438/",
+      "value": "LinkedIn"
+    },
+    {
+      "title": "Repositorio publico do perfil",
+      "description": "Base auditavel para distribuicao e evolucao do conteudo.",
+      "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
+      "value": "GitHub"
+    }
+  ]
+}
