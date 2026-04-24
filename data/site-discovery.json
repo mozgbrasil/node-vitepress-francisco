@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-21T03:12:03.848Z",
+  "generated_at": "2026-04-24T20:00:25.959Z",
   "filters_applied": {},
-  "total_items": 34,
-  "total_available_items": 34,
+  "total_items": 39,
+  "total_available_items": 39,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 4 },
+    { "label": "presence", "count": 6 },
+    { "label": "contact", "count": 3 },
     { "label": "page", "count": 3 },
-    { "label": "contact", "count": 2 },
-    { "label": "surface", "count": 2 },
-    { "label": "trust", "count": 2 }
+    { "label": "surface", "count": 3 },
+    { "label": "trust", "count": 3 }
   ],
   "items": [
     {
@@ -211,6 +211,15 @@
       "meta": "Contato principal"
     },
     {
+      "id": "contact-perfil-ao-vivo",
+      "kind": "contact",
+      "title": "Perfil ao vivo",
+      "description": "superficie publica dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
+      "tags": ["contato", "canal", "perfil-ao-vivo"],
+      "meta": "Contato principal"
+    },
+    {
       "id": "contact-repositorio-publico",
       "kind": "contact",
       "title": "Repositorio publico",
@@ -232,7 +241,7 @@
       "id": "page-francisco-amorim-perfil-profissional",
       "kind": "page",
       "title": "Francisco Amorim | Perfil profissional",
-      "description": "Perfil profissional de Francisco Amorim com referências públicas organizadas no LinkedIn e em um repositório auditável.",
+      "description": "Perfil profissional de Francisco Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -253,6 +262,15 @@
       "description": "Perfil profissional no grupo Base publica.",
       "href": "https://www.linkedin.com/in/francisco-amorim-35228438/",
       "tags": ["brand", "presenca", "base-publica", "linkedin"],
+      "meta": "@francisco"
+    },
+    {
+      "id": "presence-francisco-base-publica-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "francisco · Base publica · Perfil ao vivo",
+      "description": "Perfil profissional no grupo Base publica.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
+      "tags": ["brand", "presenca", "base-publica", "perfil-ao-vivo"],
       "meta": "@francisco"
     },
     {
@@ -279,6 +297,15 @@
       "meta": "@francisco"
     },
     {
+      "id": "presence-francisco-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "francisco · Perfil ao vivo",
+      "description": "superficie publica dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
+      "tags": ["brand", "presenca", "perfil-ao-vivo"],
+      "meta": "@francisco"
+    },
+    {
       "id": "presence-francisco-repositorio-publico",
       "kind": "presence",
       "title": "francisco · Repositorio publico",
@@ -293,6 +320,15 @@
       "title": "LinkedIn",
       "description": "Camada pública principal de presença profissional e relacionamento.",
       "href": "https://www.linkedin.com/in/francisco-amorim-35228438/",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-perfil-ao-vivo",
+      "kind": "surface",
+      "title": "Perfil ao vivo",
+      "description": "Superficie publica dedicada para leitura rapida, contexto e continuidade editorial.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
     },
@@ -313,6 +349,15 @@
       "href": "https://www.linkedin.com/in/francisco-amorim-35228438",
       "tags": ["confianca", "institucional", "perfil-profissional-publico"],
       "meta": "LinkedIn"
+    },
+    {
+      "id": "trust-perfil-publico-dedicado",
+      "kind": "trust",
+      "title": "Perfil publico dedicado",
+      "description": "Camada publica propria para consolidar narrativa, contato e leitura rapida.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-francisco",
+      "tags": ["confianca", "institucional", "perfil-publico-dedicado"],
+      "meta": "GitHub Pages"
     },
     {
       "id": "trust-repositorio-publico-do-perfil",

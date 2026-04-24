@@ -4,16 +4,16 @@
 - Author: Francisco Amorim
 - Role: Perfil profissional
 - Location: Brasil
-- Site: https://github.com/mozgbrasil/node-vitepress-francisco
-- Generated at: 2026-04-21T03:12:03.848Z
+- Site: https://mozgbrasil.github.io/node-vitepress-francisco/
+- Generated at: 2026-04-24T20:00:25.959Z
 
 ## Summary
-Perfil profissional de Francisco Amorim com referências públicas organizadas no LinkedIn e em um repositório auditável.
+Perfil profissional de Francisco Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.
 
 ## Pages
-- Francisco Amorim | Perfil profissional: https://github.com/mozgbrasil/node-vitepress-francisco/
-- Contato: https://github.com/mozgbrasil/node-vitepress-francisco/contato
-- Perfis: https://github.com/mozgbrasil/node-vitepress-francisco/presenca
+- Francisco Amorim | Perfil profissional: https://mozgbrasil.github.io/node-vitepress-francisco//
+- Contato: https://mozgbrasil.github.io/node-vitepress-francisco//contato
+- Perfis: https://mozgbrasil.github.io/node-vitepress-francisco//presenca
 
 ## API
 - GET /api/health: Status operacional e metadados de request.
@@ -64,23 +64,24 @@ Perfil profissional de Francisco Amorim com referências públicas organizadas n
 
 ## Trust Signals
 - Perfil profissional publico: Referencia publica principal para a identidade profissional. [LinkedIn]
+- Perfil publico dedicado: Camada publica propria para consolidar narrativa, contato e leitura rapida. [GitHub Pages]
 - Repositorio publico do perfil: Base auditavel para distribuicao e evolucao do conteudo. [GitHub]
 
 ## Static Exports
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-catalog.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-audit.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-discovery.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-portfolio.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-categories.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-capabilities.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-projects.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-stacks.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-operations.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-journeys.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-trust.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/data/site-profiles.json
-- https://github.com/mozgbrasil/node-vitepress-francisco/llms.txt
-- https://github.com/mozgbrasil/node-vitepress-francisco/robots.txt
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-catalog.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-audit.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-discovery.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-portfolio.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-categories.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-capabilities.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-projects.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-stacks.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-operations.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-journeys.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-trust.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//data/site-profiles.json
+- https://mozgbrasil.github.io/node-vitepress-francisco//llms.txt
+- https://mozgbrasil.github.io/node-vitepress-francisco//robots.txt
 
 ## Quality Gates
 

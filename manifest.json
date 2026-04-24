@@ -1,7 +1,7 @@
 {
   "name": "Francisco Amorim | Perfil profissional",
   "short_name": "Francisco Amorim",
-  "description": "Perfil profissional de Francisco Amorim com referências públicas organizadas no LinkedIn e em um repositório auditável.",
+  "description": "Perfil profissional de Francisco Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
   "lang": "pt-BR",
   "dir": "ltr",
   "start_url": "/node-vitepress-francisco/",
@@ -9,11 +9,7 @@
   "display": "standalone",
   "background_color": "#09101b",
   "theme_color": "#0f172a",
-  "categories": [
-    "technology",
-    "business",
-    "productivity"
-  ],
+  "categories": ["technology", "business", "productivity"],
   "icons": [
     {
       "src": "/node-vitepress-francisco/logo-mini.svg",
