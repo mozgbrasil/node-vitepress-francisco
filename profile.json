@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T20:00:25.603Z",
+  "generated_at": "2026-04-27T07:55:57.931Z",
   "profile_id": "francisco",
   "label": "Francisco",
   "title": "Francisco Amorim | Perfil profissional",
@@ -8,8 +8,7 @@
   "public_repository": "https://github.com/mozgbrasil/node-vitepress-francisco",
   "site_url": "https://mozgbrasil.github.io/node-vitepress-francisco/",
   "source_urls": [
-    "https://www.linkedin.com/in/francisco-amorim-35228438/",
-    "https://github.com/mozgbrasil/node-vitepress-francisco"
+    "https://www.linkedin.com/in/francisco-amorim-35228438/"
   ],
   "reference_links": [
     {
@@ -21,11 +20,6 @@
       "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
       "label": "Perfil ao vivo",
       "note": "superficie publica dedicada do perfil"
-    },
-    {
-      "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-      "label": "Repositorio publico",
-      "note": "destino publico da superficie editorial"
     }
   ]
 }

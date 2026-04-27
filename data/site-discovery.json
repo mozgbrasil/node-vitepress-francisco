@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-24T22:30:38.889Z",
+  "generated_at": "2026-04-27T07:55:58.262Z",
   "filters_applied": {},
-  "total_items": 39,
-  "total_available_items": 39,
+  "total_items": 34,
+  "total_available_items": 34,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 6 },
-    { "label": "contact", "count": 3 },
+    { "label": "presence", "count": 4 },
     { "label": "page", "count": 3 },
-    { "label": "surface", "count": 3 },
-    { "label": "trust", "count": 3 }
+    { "label": "contact", "count": 2 },
+    { "label": "surface", "count": 2 },
+    { "label": "trust", "count": 2 }
   ],
   "items": [
     {
@@ -220,15 +220,6 @@
       "meta": "Contato principal"
     },
     {
-      "id": "contact-repositorio-publico",
-      "kind": "contact",
-      "title": "Repositorio publico",
-      "description": "destino de publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-      "tags": ["contato", "canal", "repositorio-publico"],
-      "meta": "Contato principal"
-    },
-    {
       "id": "page-contato",
       "kind": "page",
       "title": "Contato",
@@ -241,7 +232,7 @@
       "id": "page-francisco-amorim-perfil-profissional",
       "kind": "page",
       "title": "Francisco Amorim | Perfil profissional",
-      "description": "Perfil profissional de Francisco Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
+      "description": "Perfil profissional de Francisco Amorim com LinkedIn e presença pública dedicada para leitura rápida, contexto e continuidade.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -274,20 +265,6 @@
       "meta": "@francisco"
     },
     {
-      "id": "presence-francisco-distribuicao-editorial-repositorio-publico",
-      "kind": "presence",
-      "title": "francisco · Distribuicao editorial · Repositorio publico",
-      "description": "Perfil profissional no grupo Distribuicao editorial.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-      "tags": [
-        "brand",
-        "presenca",
-        "distribuicao-editorial",
-        "repositorio-publico"
-      ],
-      "meta": "@francisco"
-    },
-    {
       "id": "presence-francisco-linkedin",
       "kind": "presence",
       "title": "francisco · LinkedIn",
@@ -303,15 +280,6 @@
       "description": "superficie publica dedicada",
       "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
       "tags": ["brand", "presenca", "perfil-ao-vivo"],
-      "meta": "@francisco"
-    },
-    {
-      "id": "presence-francisco-repositorio-publico",
-      "kind": "presence",
-      "title": "francisco · Repositorio publico",
-      "description": "publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-      "tags": ["brand", "presenca", "repositorio-publico"],
       "meta": "@francisco"
     },
     {
@@ -333,15 +301,6 @@
       "meta": "Canal publico"
     },
     {
-      "id": "surface-repositorio-publico",
-      "kind": "surface",
-      "title": "Repositorio publico",
-      "description": "Espelho editorial auditável para a superfície do perfil.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-      "tags": ["superficie", "publico", "distribuicao"],
-      "meta": "Canal publico"
-    },
-    {
       "id": "trust-perfil-profissional-publico",
       "kind": "trust",
       "title": "Perfil profissional publico",
@@ -358,15 +317,6 @@
       "href": "https://mozgbrasil.github.io/node-vitepress-francisco",
       "tags": ["confianca", "institucional", "perfil-publico-dedicado"],
       "meta": "GitHub Pages"
-    },
-    {
-      "id": "trust-repositorio-publico-do-perfil",
-      "kind": "trust",
-      "title": "Repositorio publico do perfil",
-      "description": "Base auditavel para distribuicao e evolucao do conteudo.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-      "tags": ["confianca", "institucional", "repositorio-publico-do-perfil"],
-      "meta": "GitHub"
     }
   ]
 }

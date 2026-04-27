@@ -5,10 +5,10 @@
 - Role: Perfil profissional
 - Location: Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-francisco/
-- Generated at: 2026-04-24T20:00:25.959Z
+- Generated at: 2026-04-27T07:55:58.262Z
 
 ## Summary
-Perfil profissional de Francisco Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.
+Perfil profissional de Francisco Amorim com LinkedIn e presença pública dedicada para leitura rápida, contexto e continuidade.
 
 ## Pages
 - Francisco Amorim | Perfil profissional: https://mozgbrasil.github.io/node-vitepress-francisco//
@@ -65,7 +65,6 @@ Perfil profissional de Francisco Amorim com LinkedIn, perfil ao vivo e repositó
 ## Trust Signals
 - Perfil profissional publico: Referencia publica principal para a identidade profissional. [LinkedIn]
 - Perfil publico dedicado: Camada publica propria para consolidar narrativa, contato e leitura rapida. [GitHub Pages]
-- Repositorio publico do perfil: Base auditavel para distribuicao e evolucao do conteudo. [GitHub]
 
 ## Static Exports
 - https://mozgbrasil.github.io/node-vitepress-francisco//data/site-catalog.json

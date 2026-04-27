@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-24T22:30:38.889Z",
+  "generated_at": "2026-04-27T07:55:58.262Z",
   "active_profile": "francisco",
   "catalog": {
     "site": {
       "title": "Francisco Amorim | Perfil profissional",
-      "description": "Perfil profissional de Francisco Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
+      "description": "Perfil profissional de Francisco Amorim com LinkedIn e presença pública dedicada para leitura rápida, contexto e continuidade.",
       "author": "Francisco Amorim",
       "company": "Francisco Amorim",
       "role": "Perfil profissional",
       "location": "Brasil",
       "siteUrl": "https://mozgbrasil.github.io/node-vitepress-francisco/",
-      "socialImage": "https://mozgbrasil.github.io/node-vitepress-francisco/og.jpg",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-francisco/assets/profile-branding/francisco.jpeg",
       "email": "",
       "phone": "",
       "whatsapp": "",
       "linkedIn": "https://www.linkedin.com/in/francisco-amorim-35228438/",
-      "github": "https://github.com/mozgbrasil/node-vitepress-francisco",
+      "github": "",
       "bluesky": "",
       "githubSponsors": "",
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://www.linkedin.com/in/francisco-amorim-35228438/",
       "githubPages": "",
-      "profileImage": "/logo-mini.svg",
-      "institutionLogo": "",
+      "profileImage": "/assets/profile-branding/francisco.jpeg",
+      "institutionLogo": "/assets/profile-branding/francisco.jpeg",
       "mapsUrl": "",
       "mapsEmbedUrl": "",
       "address": {
@@ -40,8 +40,8 @@
         "LinkedIn",
         "perfil profissional",
         "perfil ao vivo",
-        "GitHub Pages",
-        "repositorio publico"
+        "portfólio pessoal",
+        "presenca publica"
       ],
       "structuredData": {
         "@context": "https://schema.org",
@@ -50,19 +50,19 @@
         "url": "https://mozgbrasil.github.io/node-vitepress-francisco/",
         "jobTitle": "Perfil profissional",
         "worksFor": { "@type": "Organization", "name": "Francisco Amorim" },
-        "description": "Perfil profissional de Francisco Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
+        "description": "Perfil profissional de Francisco Amorim com LinkedIn e presença pública dedicada para leitura rápida, contexto e continuidade.",
         "knowsAbout": [
           "Francisco Amorim",
           "LinkedIn",
           "perfil profissional",
           "perfil ao vivo",
-          "GitHub Pages",
-          "repositorio publico"
+          "portfólio pessoal",
+          "presenca publica"
         ],
         "sameAs": [
-          "https://github.com/mozgbrasil/node-vitepress-francisco",
           "https://www.linkedin.com/in/francisco-amorim-35228438/",
-          "https://mozgbrasil.github.io/node-vitepress-francisco/"
+          "https://mozgbrasil.github.io/node-vitepress-francisco/",
+          "https://github.com/mozgbrasil/node-vitepress-francisco"
         ]
       },
       "pixOptions": [],
@@ -73,26 +73,19 @@
           "website": "https://www.linkedin.com/in/francisco-amorim-35228438/",
           "role": "perfil profissional publico",
           "note": "Referencia profissional primaria e fonte publica principal do perfil."
-        },
-        {
-          "name": "node-vitepress-francisco",
-          "cnpj": "",
-          "website": "https://github.com/mozgbrasil/node-vitepress-francisco",
-          "role": "repositorio publico de distribuicao",
-          "note": "Base versionada da superficie editorial e do espelho publico do perfil."
         }
       ]
     },
     "hero": {
       "name": "Francisco Amorim",
       "text": "Perfil profissional com LinkedIn, perfil ao vivo e base auditavel",
-      "tagline": "LinkedIn, GitHub Pages e repositório público trabalham juntos para apresentar o perfil com leitura simples e evolução previsível."
+      "tagline": "LinkedIn e perfil ao vivo trabalham juntos para apresentar o perfil com leitura simples, identidade própria e evolução previsível."
     },
     "pages": [
       {
         "path": "/",
         "title": "Francisco Amorim | Perfil profissional",
-        "description": "Perfil profissional de Francisco Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares."
+        "description": "Perfil profissional de Francisco Amorim com LinkedIn e presença pública dedicada para leitura rápida, contexto e continuidade."
       },
       {
         "path": "/contato",
@@ -115,7 +108,7 @@
       {
         "year": "Atual",
         "title": "Base pública clara",
-        "description": "LinkedIn e repositório público trabalham como superfícies complementares."
+        "description": "LinkedIn e perfil ao vivo trabalham como superfícies complementares."
       },
       {
         "year": "Atual",
@@ -125,7 +118,7 @@
     ],
     "experienceHighlights": [
       "Perfil profissional organizado para leitura rapida e descoberta publica direta.",
-      "LinkedIn, perfil ao vivo e repositorio publico alinhados como superfícies principais.",
+      "LinkedIn e perfil ao vivo alinhados como superfícies principais.",
       "Base editorial pronta para auditoria, SEO leve e expansao futura."
     ],
     "flagshipProjects": [],
@@ -146,11 +139,6 @@
         "title": "Perfil ao vivo",
         "description": "Superficie publica dedicada para leitura rapida, contexto e continuidade editorial.",
         "href": "https://mozgbrasil.github.io/node-vitepress-francisco/"
-      },
-      {
-        "title": "Repositorio publico",
-        "description": "Espelho editorial auditável para a superfície do perfil.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-francisco"
       }
     ],
     "publicJourneys": [],
@@ -166,12 +154,6 @@
         "description": "Camada publica propria para consolidar narrativa, contato e leitura rapida.",
         "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
         "value": "GitHub Pages"
-      },
-      {
-        "title": "Repositorio publico do perfil",
-        "description": "Base auditavel para distribuicao e evolucao do conteudo.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-        "value": "GitHub"
       }
     ],
     "operationalPillars": [],
@@ -293,11 +275,6 @@
         "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
         "label": "Perfil ao vivo",
         "note": "superficie publica dedicada"
-      },
-      {
-        "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-        "label": "Repositorio publico",
-        "note": "destino de publicacao do perfil"
       }
     ],
     "presenceProfiles": [
@@ -306,8 +283,8 @@
         "label": "Perfil profissional",
         "title": "francisco",
         "handle": "@francisco",
-        "summary": "Presença profissional com LinkedIn e repositório público como superfícies principais.",
-        "image": "/logo-mini.svg",
+        "summary": "Presença profissional com LinkedIn e perfil ao vivo como superfícies principais.",
+        "image": "/assets/profile-branding/francisco.jpeg",
         "imageAlt": "Marca institucional do perfil Francisco",
         "imageNote": "Superficie profissional de Francisco Amorim",
         "primaryLinks": [
@@ -320,11 +297,6 @@
             "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
             "label": "Perfil ao vivo",
             "note": "superficie publica dedicada"
-          },
-          {
-            "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-            "label": "Repositorio publico",
-            "note": "publicacao do perfil"
           }
         ],
         "groups": [
@@ -340,15 +312,6 @@
                 "label": "Perfil ao vivo"
               }
             ]
-          },
-          {
-            "title": "Distribuicao editorial",
-            "links": [
-              {
-                "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-                "label": "Repositorio publico"
-              }
-            ]
           }
         ]
       }
@@ -361,10 +324,7 @@
       "headline": "Perfil profissional",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-francisco",
       "primaryUrl": "https://www.linkedin.com/in/francisco-amorim-35228438/",
-      "sourceUrls": [
-        "https://www.linkedin.com/in/francisco-amorim-35228438/",
-        "https://github.com/mozgbrasil/node-vitepress-francisco"
-      ],
+      "sourceUrls": ["https://www.linkedin.com/in/francisco-amorim-35228438/"],
       "referenceLinks": [
         {
           "href": "https://www.linkedin.com/in/francisco-amorim-35228438/",
@@ -375,11 +335,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
         }
       ],
       "schemaType": "Person",
@@ -390,30 +345,27 @@
           "label": "com apresentacao publica dedicada"
         },
         {
-          "value": "Repositorio publico",
-          "label": "para auditoria e evolucao editorial"
+          "value": "Portfólio pessoal",
+          "label": "com narrativa simples e direta"
         }
       ],
       "heroMetricsEn": [
         { "value": "LinkedIn", "label": "as the main professional trail" },
         { "value": "Live profile", "label": "with a dedicated public surface" },
-        {
-          "value": "Public repository",
-          "label": "for auditability and editorial evolution"
-        }
+        { "value": "Personal portfolio", "label": "with a clear narrative" }
       ],
       "navLinks": [],
       "pages": []
     }
   },
   "audit": {
-    "generated_at": "2026-04-24T22:30:38.889Z",
+    "generated_at": "2026-04-27T07:55:58.262Z",
     "company": "Francisco Amorim",
     "site_url": "https://mozgbrasil.github.io/node-vitepress-francisco/",
     "counts": {
       "pages": 3,
       "api_routes": 21,
-      "discovery_items": 39,
+      "discovery_items": 34,
       "portfolio_entries": 0,
       "project_dossiers": 0,
       "category_profiles": 0,
@@ -422,14 +374,14 @@
       "stack_technologies": 0,
       "operation_dossiers": 0,
       "public_journeys": 0,
-      "trust_signals": 3,
+      "trust_signals": 2,
       "specialties": 0,
       "projects": 0,
-      "surfaces": 3,
+      "surfaces": 2,
       "presence_profiles": 1,
-      "presence_groups": 2,
-      "presence_links": 6,
-      "contact_links": 3
+      "presence_groups": 1,
+      "presence_links": 4,
+      "contact_links": 2
     },
     "pages": ["/", "/contato", "/presenca"],
     "api_paths": [
